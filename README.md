@@ -1,16 +1,19 @@
 # 🏅 EC-Council CHFI Certification
 
-## 🎓 Certified Hacking Forensic Investigator (CHFI)
-This repository highlights my **EC-Council Certified Hacking Forensic Investigator (CHFI)** certification and **3 years of experience** in the field of cybersecurity and digital forensics.
+## 🎓 Computer Hacking Forensics Investigation (CHFI)
+This repository highlights my **EC-Council Computer Hacking Forensics Investigation (CHFI)** certification and **3 years of experience** in the field of cybersecurity and digital forensics.
 
 ---
 
 ## 📜 Certification Details
-- **Certification:** Certified Hacking Forensic Investigator (CHFI)
-- **Issued By:** EC-Council
-- **Certification ID:** [ECC9213546078]
-- **Issued Date:** [August, 2025]
+- **Certification:** Computer Hacking Forensics Investigation (CHFI)  
+- **Issued By:** EC-Council  
+- **Certification ID:** ECC9213546078  
+- **Issued Date:** August 2025  
 - **Validity:** 3 Years
+
+---
+
 ## 💼 Professional Experience
 ### 🔹 Cybersecurity & Digital Forensics (3 Years)
 - Conducted digital evidence analysis for Windows and Linux systems.  
@@ -34,8 +37,10 @@ This repository highlights my **EC-Council Certified Hacking Forensic Investigat
 ---
 
 ## 📁 Certificate
-You can view my official CHFI certificate here:
-[📄 View Certificate (PDF)](ECC-CHFI-Certificate-ANSI.pdf)
+You can view my official CHFI certificate here:  
+[📄 View Certificate (PDF)](./ECC-CHFI-Certificate-ANSI.pdf)
+
+> *If your certificate filename or path is different, replace the link above with the correct file name or URL.*
 
 ---
 
