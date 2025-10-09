@@ -40,7 +40,7 @@ This repository highlights my **EC-Council Computer Hacking Forensics Investigat
 You can view my official CHFI certificate here:  
 [📄 View Certificate (PDF)](./ECC-CHFI-Certificate-ANSI.pdf)
 
-> *If your certificate filename or path is different, replace the link above with the correct file name or URL.*
+
 
 ---
 
