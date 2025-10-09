@@ -40,16 +40,15 @@ This repository showcases my **EC-Council Computer Hacking Forensics Investigati
 | **Password & Hashing** | John the Ripper, Hashcat |
 | **Investigation Skills** | Evidence Recovery, Incident Response, Documentation |
 
----
+
 
 ## 📁 Certificate
 
 ### 📄 View My Official CHFI Certificate  
 [📎 Click to View Certificate (PDF)](./ECC-CHFI-Certificate-ANSI.pdf)
+---
+🧑‍💻 About Me
 
-> *(If your file name is different, update the link above to match it.)*
-
-### 🖼 Optional: Image Preview
-If you uploaded an image instead of PDF, you can show it here 👇  
-```markdown
-![CHFI Certificate Preview](./CHFI-Certificate.png)
+I’m passionate about Cybersecurity, Digital Forensics, and Ethical Hacking.
+Currently expanding my expertise in threat intelligence and incident investigation.
+Committed to continuous learning and contributing to digital forensics research
