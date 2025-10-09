@@ -4,7 +4,7 @@
 
 ## 🎓 Computer Hacking Forensics Investigation (CHFI)
 
-This repository showcases my **EC-Council Computer Hacking Forensics Investigation (CHFI)** certification and **3 years of professional experience** in **cybersecurity and digital forensics**.
+This repository highlights my **EC-Council Computer Hacking Forensics Investigation (CHFI)** certification and **3 years of professional experience** in **cybersecurity and digital forensics**.
 
 ---
 
@@ -15,40 +15,55 @@ This repository showcases my **EC-Council Computer Hacking Forensics Investigati
 - **Certification ID:** ECC9213546078  
 - **Issued Date:** August 2025  
 - **Validity:** 3 Years  
-- **Verification Link:** [https://aspen.eccouncil.org/verify](https://aspen.eccouncil.org/verify)
+- **Verification Link:** [Verify My Certification → aspen.eccouncil.org/verify](https://aspen.eccouncil.org/verify)
 
 ---
 
 ## 💼 Professional Experience
 
 ### 🔹 Cybersecurity & Digital Forensics (3 Years)
-- Conducted **digital evidence analysis** for Windows and Linux systems.  
-- Recovered deleted files and investigated suspicious network activity.  
-- Utilized forensic tools like **FTK Imager**, **Autopsy**, and **Volatility**.  
-- Performed **incident response**, malware analysis, and forensic imaging.  
-- Prepared reports maintaining **chain of custody** procedures.
+- Conducted **digital evidence analysis** on Windows and Linux systems.  
+- Recovered deleted files and investigated **suspicious network activity**.  
+- Used forensic tools like **FTK Imager**, **Autopsy**, and **Volatility**.  
+- Performed **incident response** and **malware analysis**.  
+- Produced forensic reports adhering to **chain of custody** procedures.  
 
 ---
 
 ## 🧠 Tools & Skills
 
-| Category | Tools |
-|-----------|--------|
-| **Forensic Analysis** | FTK Imager, Autopsy, Volatility |
+| Category | Tools / Skills |
+|-----------|----------------|
+| **Forensic Tools** | FTK Imager, Autopsy, Volatility |
 | **Network Analysis** | Wireshark, TCPDump |
 | **Operating Systems** | Kali Linux, Windows Forensics |
 | **Password & Hashing** | John the Ripper, Hashcat |
-| **Investigation Skills** | Evidence Recovery, Incident Response, Documentation |
+| **Investigation & Response** | Evidence Recovery, Incident Reporting, Log Analysis |
 
-
+---
 
 ## 📁 Certificate
 
-### 📄 View My Official CHFI Certificate  
-[📎 Click to View Certificate (PDF)](./ECC-CHFI-Certificate-ANSI.pdf)
----
-🧑‍💻 About Me
+### 📄 Official CHFI Certificate
+[📎 View Certificate (PDF)](./ECC-CHFI-Certificate-ANSI.pdf)
 
-I’m passionate about Cybersecurity, Digital Forensics, and Ethical Hacking.
-Currently expanding my expertise in threat intelligence and incident investigation.
-Committed to continuous learning and contributing to digital forensics research
+
+
+---
+
+## 🧑‍💻 About Me
+
+I’m passionate about **Cybersecurity**, **Digital Forensics**, and **Ethical Hacking**.  
+Currently enhancing my expertise in **threat intelligence**, **incident investigation**, and **forensic automation**.  
+My goal is to contribute to the cybersecurity community by sharing tools, research, and practical investigations.
+
+---
+
+## 🌐 Connect With Me
+
+- [💼 GitHub Profile](https://github.com/Imtiaz11223344)  
+
+
+---
+
+⭐ **Thank you for visiting my repository!**
