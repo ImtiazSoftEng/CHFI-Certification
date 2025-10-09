@@ -35,7 +35,7 @@ This repository highlights my **EC-Council Certified Hacking Forensic Investigat
 
 ## 📁 Certificate
 You can view my official CHFI certificate here:
-[📄 View Certificate (PDF)](link-to-your-pdf-or-image)
+[📄 View Certificate (PDF)](ECC-CHFI-Certificate-ANSI.pdf)
 
 ---
 
